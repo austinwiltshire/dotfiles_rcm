@@ -1,0 +1,5 @@
+[user]
+	email = john@simpli.fi
+	name = John Graham
+[push]
+	default = matching
